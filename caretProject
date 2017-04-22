@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "retained": "8806801D01479507300E0EBCC9961E43:views",
+      "path": "/views"
+    },
+    {
+      "retained": "C3332CE104D91DA68EF76C7E7C081A37:routes",
+      "path": "/routes"
+    },
+    {
+      "retained": "E9E68A3132C9E52729AB4DA283759942:app",
+      "path": "/app"
+    },
+    {
+      "retained": "CDE7E738A7BEAEA08EA2063639AC87D4:migrations",
+      "path": "/migrations"
+    }
+  ]
+}
